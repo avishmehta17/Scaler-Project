@@ -2,9 +2,7 @@ Google Calendar Clone
 
 A high-fidelity, full-stack clone of Google Calendar built with React, Node.js, Express, and MongoDB. This project focuses on replicating the core UI, user interactions, and event management functionality of the original application.
 
-(Replace this with a screenshot of your running application)
-
-✨ Features
+Features:-
 
 Full-Stack Architecture: A complete MERN stack application with a React frontend and a Node.js/Express backend.
 
@@ -26,9 +24,9 @@ Responsive Design: The UI is built with Tailwind CSS and is usable on various sc
 
 Date Navigation: Easily navigate between months/weeks/days and jump back to "Today" with a single click.
 
-🛠 Tech Stack
+Tech Stack:-
 
-Frontend
+Frontend:
 
 React (Vite): A fast, modern frontend library for building user interfaces.
 
@@ -40,7 +38,7 @@ date-fns: A powerful and modern library for all date parsing, formatting, and ma
 
 Lucide React: A clean and beautiful icon set.
 
-Backend
+Backend:
 
 Node.js: A JavaScript runtime for building the server.
 
@@ -56,7 +54,7 @@ Dotenv: For managing environment variables (like database connection strings).
 
 Nodemon: For automatic server restarts during development.
 
-📁 Project Structure
+Project Structure:-
 
 google-calendar-clone/
 ├── 📁 backend/
@@ -88,7 +86,7 @@ google-calendar-clone/
     └── tailwind.config.js
 
 
-🚀 Getting Started
+Getting Started
 
 Follow these instructions to get a copy of the project up and running on your local machine.
 
@@ -160,7 +158,7 @@ Your React development server will start, typically on http://localhost:5173. Op
 
 That's it! Your full-stack application is now running. The frontend (on port 5173) will be making API calls to your backend (on port 5000), which is connected to your database.
 
-🔌 API Endpoints
+ API Endpoints
 
 The backend provides the following RESTful API endpoints:
 
